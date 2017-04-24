@@ -1,0 +1,16 @@
+fastqtocsv('bcRANDvalcrisp.fastq');
+fastqtocsv('bcCCAGvalcrisp.fastq');
+fastqtocsv('bcCCTAvalcrisp.fastq');
+fastqtocsv('bcTGCGvalcrisp.fastq');
+fastqtocsv('bcCGCAvalcrisp.fastq');
+fastqtocsv('bcATTGvalcrisp.fastq');
+fastqtocsv('bcATGTvalcrisp.fastq');
+fastqtocsv('bcGTCGvalcrisp.fastq');
+fastqtocsv('bcACATvalcrisp.fastq');
+fastqtocsv('bcGAATvalcrisp.fastq');
+fastqtocsv('bcGCAAvalcrisp.fastq');
+fastqtocsv('bcTAGAvalcrisp.fastq');
+fastqtocsv('bcTTACvalcrisp.fastq');
+fastqtocsv('bcCGAGvalcrisp.fastq');
+fastqtocsv('bcGCCTvalcrisp.fastq');
+fastqtocsv('bcAGCCvalcrisp.fastq');
